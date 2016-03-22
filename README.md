@@ -1,2 +1,2 @@
 # weibo_crawler
-A weibo crawl program in stock field
+test A crawl program in stock field
